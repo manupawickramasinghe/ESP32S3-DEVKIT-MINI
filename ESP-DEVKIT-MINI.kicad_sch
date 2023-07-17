@@ -3813,6 +3813,31 @@
     )
   )
 
+  (symbol (lib_id "PCM_4ms_Power-symbol:GND") (at 246.38 111.76 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 19e5b0d4-3cbd-4033-bb08-78281d75c05a)
+    (property "Reference" "#PWR021" (at 246.38 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 246.38 116.84 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 246.38 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 246.38 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7127b2a7-1c8f-449f-a556-b6edbb030098))
+    (instances
+      (project "ESP-DEVKIT-MINI"
+        (path "/473b80a5-6d9c-42aa-9c06-31a8cb982a54"
+          (reference "#PWR021") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "PCM_4ms_Capacitor:0.1uF_0603_16V") (at 62.23 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1c596dd7-0446-4ca0-8aa2-83ff8177d1e9)
