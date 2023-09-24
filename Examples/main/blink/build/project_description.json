@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "blink",
-    "project_version":    "f3351e9",
+    "project_version":    "9cc0541-dirty",
     "project_path":       "D:/Documents/GitHub/ESP32S3-DEVKIT-MINI/Examples/main/blink",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1.1",
     "build_dir":          "D:/Documents/GitHub/ESP32S3-DEVKIT-MINI/Examples/main/blink/build",
