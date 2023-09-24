@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/blink.elf'
+elf = 'D:/Documents/GitHub/ESP32S3-DEVKIT-MINI/Examples/main/blink/build/blink.elf'
